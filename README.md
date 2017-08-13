@@ -2,6 +2,7 @@
 The first submission only uses vowel phonemes as features, which gets a 84.6% test accuracy.<br />
 The second submission uses vowel and consonant phonemes as features and gets a 89.9% test accuracy.<br />
 The second submission combines phonetic features and spelling features, which gets a 91.4% test accuracy.<br />
+All of three submissions use random forest classifier.
 
 <h1><center>Project: Predict Stress in English Words</center></h1>
 In this project, you need to build a classifier to predict the stresses for a list of English words.
