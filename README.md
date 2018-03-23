@@ -3,7 +3,7 @@ The first submission only uses vowel phonemes as features, which gets a 84.6% te
 
 The second submission uses vowel and consonant phonemes as features and gets a 89.9% test accuracy.<br /><br />
 
-The second submission combines phonetic features and spelling features, which gets a 91.4% test accuracy.<br /><br />
+The third submission combines phonetic features and spelling features, which gets a 91.4% test accuracy.<br /><br />
 
 All of three submissions use random forest classifier.<br />
 
